@@ -1,0 +1,316 @@
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\Dashboard.exe.config
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\Dashboard.exe
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\Awesomium.Core.dll
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\Awesomium.Windows.Forms.dll
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\DiscordRPC.dll
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\Newtonsoft.Json.dll
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\NLog.dll
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\Awesomium.Core.xml
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\Awesomium.Windows.Forms.xml
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\DiscordRPC.pdb
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\DiscordRPC.xml
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\Newtonsoft.Json.xml
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\NLog.xml
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\awesomium.dll
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\icudt.dll
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\avcodec-53.dll
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\avformat-53.dll
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\avutil-51.dll
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\libEGL.dll
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\libGLESv2.dll
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\awesomium_process
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\inspector.pak
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\xinput9_1_0.dll
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\pdf_js.pak
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\obj\Release\ADashboard.csproj.AssemblyReference.cache
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\obj\Release\ADashboard.Form1.resources
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\obj\Release\ADashboard.Properties.Resources.resources
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\obj\Release\ADashboard.csproj.GenerateResource.cache
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\obj\Release\ADashboard.csproj.CoreCompileInputs.cache
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\obj\Release\ADashboard.csproj.CopyComplete
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\obj\Release\Dashboard.exe
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\obj\Release\ADashboard.DBoard.resources
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\NLog.config
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\obfuscar.xml
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\Awesomium.Windows.Controls.dll
+C:\Users\Salvi\Desktop\dashdata\dasharcade\Dashboard\s\Dashboard\bin\Release\Awesomium.Windows.Controls.xml
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\NLog.config
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\obfuscar.xml
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\Dashboard.exe.config
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\Dashboard.exe
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\Awesomium.Core.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\Awesomium.Windows.Controls.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\Awesomium.Windows.Forms.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\DiscordRPC.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\Newtonsoft.Json.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\NLog.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\Awesomium.Core.xml
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\Awesomium.Windows.Controls.xml
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\Awesomium.Windows.Forms.xml
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\DiscordRPC.pdb
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\DiscordRPC.xml
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\Newtonsoft.Json.xml
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\NLog.xml
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\awesomium.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\icudt.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\avcodec-53.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\avformat-53.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\avutil-51.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\libEGL.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\libGLESv2.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\awesomium_process
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\inspector.pak
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\xinput9_1_0.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\bin\Release\pdf_js.pak
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\obj\Release\ADashboard.csproj.AssemblyReference.cache
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\obj\Release\ADashboard.DBoard.resources
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\obj\Release\ADashboard.Properties.Resources.resources
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\obj\Release\ADashboard.csproj.GenerateResource.cache
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\obj\Release\ADashboard.csproj.CoreCompileInputs.cache
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\obj\Release\ADashboard.csproj.CopyComplete
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\Dashboard\obj\Release\Dashboard.exe
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\NLog.config
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\obfuscar.xml
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\Dashboard.exe.config
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\Dashboard.exe
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\Awesomium.Core.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\Awesomium.Windows.Controls.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\Awesomium.Windows.Forms.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\DiscordRPC.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\Newtonsoft.Json.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\NLog.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\Awesomium.Core.xml
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\Awesomium.Windows.Controls.xml
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\Awesomium.Windows.Forms.xml
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\DiscordRPC.pdb
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\DiscordRPC.xml
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\Newtonsoft.Json.xml
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\NLog.xml
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\awesomium.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\icudt.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\avcodec-53.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\avformat-53.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\avutil-51.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\libEGL.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\libGLESv2.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\awesomium_process
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\inspector.pak
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\xinput9_1_0.dll
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\bin\Release\pdf_js.pak
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\obj\Release\ADashboard.csproj.AssemblyReference.cache
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\obj\Release\ADashboard.DBoard.resources
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\obj\Release\ADashboard.Properties.Resources.resources
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\obj\Release\ADashboard.csproj.GenerateResource.cache
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\obj\Release\ADashboard.csproj.CoreCompileInputs.cache
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\obj\Release\ADashboard.csproj.CopyComplete
+C:\Users\Salvi\Desktop\dashdata\DASMUWU\DashboardDamme\obj\Release\Dashboard.exe
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\NLog.config
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\obfuscar.xml
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\Dashboard.exe.config
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\Dashboard.exe
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\Awesomium.Core.dll
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\Awesomium.Windows.Controls.dll
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\Awesomium.Windows.Forms.dll
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\DiscordRPC.dll
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\Newtonsoft.Json.dll
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\NLog.dll
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\Awesomium.Core.xml
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\Awesomium.Windows.Controls.xml
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\Awesomium.Windows.Forms.xml
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\DiscordRPC.pdb
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\DiscordRPC.xml
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\Newtonsoft.Json.xml
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\NLog.xml
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\awesomium.dll
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\icudt.dll
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\avcodec-53.dll
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\avformat-53.dll
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\avutil-51.dll
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\libEGL.dll
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\libGLESv2.dll
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\awesomium_process
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\inspector.pak
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\xinput9_1_0.dll
+C:\Users\Salvi\Desktop\DashboardSource\bin\Release\pdf_js.pak
+C:\Users\Salvi\Desktop\DashboardSource\obj\Release\ADashboard.csproj.AssemblyReference.cache
+C:\Users\Salvi\Desktop\DashboardSource\obj\Release\ADashboard.DBoard.resources
+C:\Users\Salvi\Desktop\DashboardSource\obj\Release\ADashboard.Properties.Resources.resources
+C:\Users\Salvi\Desktop\DashboardSource\obj\Release\ADashboard.csproj.GenerateResource.cache
+C:\Users\Salvi\Desktop\DashboardSource\obj\Release\ADashboard.csproj.CoreCompileInputs.cache
+C:\Users\Salvi\Desktop\DashboardSource\obj\Release\ADashboard.csproj.CopyComplete
+C:\Users\Salvi\Desktop\DashboardSource\obj\Release\Dashboard.exe
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\NLog.config
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\obfuscar.xml
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\Dashboard.exe.config
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\Dashboard.exe
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\Awesomium.Core.dll
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\Awesomium.Windows.Controls.dll
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\Awesomium.Windows.Forms.dll
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\DiscordRPC.dll
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\Newtonsoft.Json.dll
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\NLog.dll
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\Awesomium.Core.xml
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\Awesomium.Windows.Controls.xml
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\Awesomium.Windows.Forms.xml
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\DiscordRPC.pdb
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\DiscordRPC.xml
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\Newtonsoft.Json.xml
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\NLog.xml
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\awesomium.dll
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\icudt.dll
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\avcodec-53.dll
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\avformat-53.dll
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\avutil-51.dll
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\libEGL.dll
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\libGLESv2.dll
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\awesomium_process
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\inspector.pak
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\xinput9_1_0.dll
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\bin\Release\pdf_js.pak
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\obj\Release\ADashboard.csproj.AssemblyReference.cache
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\obj\Release\ADashboard.DBoard.resources
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\obj\Release\ADashboard.Properties.Resources.resources
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\obj\Release\ADashboard.csproj.GenerateResource.cache
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\obj\Release\ADashboard.csproj.CoreCompileInputs.cache
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\obj\Release\ADashboard.csproj.Up2Date
+C:\Users\ipiadmin\Desktop\DB\DashboardSource new\obj\Release\Dashboard.exe
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\NLog.config
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\DBoard.resx
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\Dashboard.exe.config
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\Dashboard.exe
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\Awesomium.Core.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\Awesomium.Windows.Controls.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\Awesomium.Windows.Forms.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\DiscordRPC.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\Newtonsoft.Json.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\NLog.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\Awesomium.Core.xml
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\Awesomium.Windows.Controls.xml
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\Awesomium.Windows.Forms.xml
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\DiscordRPC.pdb
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\DiscordRPC.xml
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\Newtonsoft.Json.xml
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\NLog.xml
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\awesomium.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\icudt.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\avcodec-53.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\avformat-53.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\avutil-51.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\libEGL.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\libGLESv2.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\awesomium_process
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\inspector.pak
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\xinput9_1_0.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bin\Release\pdf_js.pak
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\obj\Release\ADashboard.csproj.AssemblyReference.cache
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\obj\Release\ADashboard.DBoard.resources
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\obj\Release\ADashboard.Properties.Resources.resources
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\obj\Release\ADashboard.csproj.GenerateResource.cache
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\obj\Release\ADashboard.csproj.CoreCompileInputs.cache
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\obj\Release\ADashboard.csproj.Up2Date
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\obj\Release\Dashboard.exe
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\NLog.config
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\DBoard.resx
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\Awesomium.Core.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\Awesomium.Windows.Controls.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\Awesomium.Windows.Forms.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\DiscordRPC.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\Newtonsoft.Json.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\NLog.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\Awesomium.Core.xml
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\Awesomium.Windows.Controls.xml
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\Awesomium.Windows.Forms.xml
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\DiscordRPC.pdb
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\DiscordRPC.xml
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\Newtonsoft.Json.xml
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\NLog.xml
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\awesomium.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\icudt.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\avcodec-53.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\avformat-53.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\avutil-51.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\libEGL.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\libGLESv2.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\awesomium_process
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\inspector.pak
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\xinput9_1_0.dll
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\pdf_js.pak
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\obj\Release\ADashboard.csproj.AssemblyReference.cache
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\obj\Release\ADashboard.DBoard.resources
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\obj\Release\ADashboard.Properties.Resources.resources
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\obj\Release\ADashboard.csproj.GenerateResource.cache
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\obj\Release\ADashboard.csproj.CoreCompileInputs.cache
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\obj\Release\ADashboard.csproj.Up2Date
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\NonRR.exe.config
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\bin\Release\NonRR.exe
+D:\FutureCMS - Source - Coding - Open\DashBoard - VS2020\DashboardSour\bakcup\v0-select\obj\Release\NonRR.exe
+D:\Dash\Dash Open\bin\Release\NLog.config
+D:\Dash\Dash Open\bin\Release\DBoard.resx
+D:\Dash\Dash Open\bin\Release\NonRR.exe.config
+D:\Dash\Dash Open\bin\Release\NonRR.exe
+D:\Dash\Dash Open\bin\Release\Awesomium.Core.dll
+D:\Dash\Dash Open\bin\Release\Awesomium.Windows.Controls.dll
+D:\Dash\Dash Open\bin\Release\Awesomium.Windows.Forms.dll
+D:\Dash\Dash Open\bin\Release\DiscordRPC.dll
+D:\Dash\Dash Open\bin\Release\Newtonsoft.Json.dll
+D:\Dash\Dash Open\bin\Release\NLog.dll
+D:\Dash\Dash Open\bin\Release\Awesomium.Core.xml
+D:\Dash\Dash Open\bin\Release\Awesomium.Windows.Controls.xml
+D:\Dash\Dash Open\bin\Release\Awesomium.Windows.Forms.xml
+D:\Dash\Dash Open\bin\Release\DiscordRPC.pdb
+D:\Dash\Dash Open\bin\Release\DiscordRPC.xml
+D:\Dash\Dash Open\bin\Release\Newtonsoft.Json.xml
+D:\Dash\Dash Open\bin\Release\NLog.xml
+D:\Dash\Dash Open\bin\Release\awesomium.dll
+D:\Dash\Dash Open\bin\Release\icudt.dll
+D:\Dash\Dash Open\bin\Release\avcodec-53.dll
+D:\Dash\Dash Open\bin\Release\avformat-53.dll
+D:\Dash\Dash Open\bin\Release\avutil-51.dll
+D:\Dash\Dash Open\bin\Release\libEGL.dll
+D:\Dash\Dash Open\bin\Release\libGLESv2.dll
+D:\Dash\Dash Open\bin\Release\awesomium_process
+D:\Dash\Dash Open\bin\Release\inspector.pak
+D:\Dash\Dash Open\bin\Release\xinput9_1_0.dll
+D:\Dash\Dash Open\bin\Release\pdf_js.pak
+D:\Dash\Dash Open\obj\Release\ADashboard.csproj.AssemblyReference.cache
+D:\Dash\Dash Open\obj\Release\ADashboard.DBoard.resources
+D:\Dash\Dash Open\obj\Release\ADashboard.Properties.Resources.resources
+D:\Dash\Dash Open\obj\Release\ADashboard.csproj.GenerateResource.cache
+D:\Dash\Dash Open\obj\Release\ADashboard.csproj.CoreCompileInputs.cache
+D:\Dash\Dash Open\obj\Release\ADashboard.csproj.Up2Date
+D:\Dash\Dash Open\obj\Release\NonRR.exe
+D:\Dash\Dash Open\Dash Open\obj\Release\ADashboard.csproj.AssemblyReference.cache
+D:\Dash\Dash Open\Dash Open\obj\Release\ADashboard.DBoard.resources
+D:\Dash\Dash Open\Dash Open\obj\Release\ADashboard.Properties.Resources.resources
+D:\Dash\Dash Open\Dash Open\obj\Release\ADashboard.csproj.GenerateResource.cache
+D:\Dash\Dash Open\Dash Open\obj\Release\ADashboard.csproj.CoreCompileInputs.cache
+D:\Dash\Dash Open\Dash Open\obj\Release\NonRR.exe
+D:\Dash\Dash Open\Dash Open\bin\Release\NLog.config
+D:\Dash\Dash Open\Dash Open\bin\Release\DBoard.resx
+D:\Dash\Dash Open\Dash Open\bin\Release\NonRR.exe.config
+D:\Dash\Dash Open\Dash Open\bin\Release\NonRR.exe
+D:\Dash\Dash Open\Dash Open\bin\Release\Awesomium.Core.dll
+D:\Dash\Dash Open\Dash Open\bin\Release\Awesomium.Windows.Controls.dll
+D:\Dash\Dash Open\Dash Open\bin\Release\Awesomium.Windows.Forms.dll
+D:\Dash\Dash Open\Dash Open\bin\Release\DiscordRPC.dll
+D:\Dash\Dash Open\Dash Open\bin\Release\Newtonsoft.Json.dll
+D:\Dash\Dash Open\Dash Open\bin\Release\NLog.dll
+D:\Dash\Dash Open\Dash Open\bin\Release\Awesomium.Core.xml
+D:\Dash\Dash Open\Dash Open\bin\Release\Awesomium.Windows.Controls.xml
+D:\Dash\Dash Open\Dash Open\bin\Release\Awesomium.Windows.Forms.xml
+D:\Dash\Dash Open\Dash Open\bin\Release\DiscordRPC.pdb
+D:\Dash\Dash Open\Dash Open\bin\Release\DiscordRPC.xml
+D:\Dash\Dash Open\Dash Open\bin\Release\Newtonsoft.Json.xml
+D:\Dash\Dash Open\Dash Open\bin\Release\NLog.xml
+D:\Dash\Dash Open\Dash Open\bin\Release\awesomium.dll
+D:\Dash\Dash Open\Dash Open\bin\Release\icudt.dll
+D:\Dash\Dash Open\Dash Open\bin\Release\avcodec-53.dll
+D:\Dash\Dash Open\Dash Open\bin\Release\avformat-53.dll
+D:\Dash\Dash Open\Dash Open\bin\Release\avutil-51.dll
+D:\Dash\Dash Open\Dash Open\bin\Release\libEGL.dll
+D:\Dash\Dash Open\Dash Open\bin\Release\libGLESv2.dll
+D:\Dash\Dash Open\Dash Open\bin\Release\awesomium_process
+D:\Dash\Dash Open\Dash Open\bin\Release\inspector.pak
+D:\Dash\Dash Open\Dash Open\bin\Release\xinput9_1_0.dll
+D:\Dash\Dash Open\Dash Open\bin\Release\pdf_js.pak
+D:\Dash\Dash Open\Dash Open\obj\Release\ADashboard.csproj.Up2Date
