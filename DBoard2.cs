@@ -14,10 +14,10 @@ using Awesomium.Windows.Forms;
 using DiscordRPC;
 using Newtonsoft.Json;
 using NLog;
-using ADashboard.DBoardHelper;
+
 namespace ADashboard
 {
-    public partial class DBoard : Form
+    public class DBoard : Form
     {
         private bool drag;
         private int hWnd;
@@ -49,8 +49,7 @@ namespace ADashboard
 
         public DBoard()
         {
-            InitializeComponent();
-            InitializeDashboard
+            InitializeComponent()
             LoadServerType();
             InitializeDiscord();
             InitializeDashboard();
@@ -393,36 +392,5 @@ namespace ADashboard
             }
             base.Dispose(disposing);
         }
-        // private void ToggleWindow(JSValue[] arguments)
-        // {
-        //     if (arguments.Length > 1)
-        //     {
-        //         string clientIdStr = arguments[1].ToString();
-        //         log.Info($"Received clientId argument: {clientIdStr}");
-
-        //         if (int.TryParse(clientIdStr, out int clientId) && clientId >= 0)
-        //         {
-        //             log.Info($"Valid clientId: {clientId} for ToggleMainWindow.");
-        //             if (processToClientIdMap.ContainsValue(clientId))
-        //             {
-        //                 var processId = processToClientIdMap.FirstOrDefault(x => x.Value == clientId).Key;
-        //                 ToggleMainWindow(processId);
-        //                 log.Info($"Toggled window for clientId: {clientId}, processId: {processId}");
-        //             }
-        //             else
-        //             {
-        //                 log.Error($"Invalid clientId: {clientId}. No valid process found.");
-        //             }
-        //         }
-        //         else
-        //         {
-        //             log.Error($"Invalid clientId: {clientIdStr}. It must be a valid positive integer.");
-        //         }
-        //     }
-        //     else
-        //     {
-        //         log.Error("Insufficient arguments for ToggleWindow. Expected clientId.");
-        //     }
-        // }
     }
 }
