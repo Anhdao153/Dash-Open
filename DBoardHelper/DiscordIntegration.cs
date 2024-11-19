@@ -1,13 +1,13 @@
 using DiscordRPC;
 
-namespace ADashboard.DBoardHelper
+namespace ADashboard
 {
-    public class DiscordIntegration
+    public partial class DBoard
     {
-        private DiscordRpcClient discordClient;
+        private static DiscordRpcClient discordClient;
         private static int discordPipe = -1;
 
-        public void InitializeDiscord()
+        public static void InitializeDiscord()
         {
             discordClient = new DiscordRpcClient("1149097329782173727", pipe: discordPipe);
             discordClient.Initialize();

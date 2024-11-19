@@ -4,30 +4,26 @@ using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Awesomium.Core;
 using Awesomium.Windows.Forms;
-using DiscordRPC;
 using Newtonsoft.Json;
 using NLog;
+using DBoardHelper;
 
 namespace ADashboard
 {
-    public class DBoard : Form
+    public partial class DBoard : Form
     {
         private bool drag;
-        private int hWnd;
         private Point start_point = new Point(0, 0);
         private static readonly string configPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "config.ini");
 
         private readonly string currentDir = AppDomain.CurrentDomain.BaseDirectory;
         private string parentDir;
         private static readonly Logger log = LogManager.GetLogger("fileLogger");
-        private static int discordPipe = -1;
 
         private WebControl webControl1;
         private Panel panel_top, CloseBTN, MinimizerBTN, SettingsBTN;
@@ -38,18 +34,17 @@ namespace ADashboard
         private IContainer components;
         private Dictionary<int, int> processToClientIdMap = new Dictionary<int, int>();
         private int nextClientId = 0;
-        private Dictionary<int, string> processCharacterMap = new Dictionary<int, string>();
-        private CancellationTokenSource cancellationTokenSource = new CancellationTokenSource();
         private Dictionary<int, CharacterData> previousCharacterDataMap = new Dictionary<int, CharacterData>();
 
         private readonly string nonRRUrl = "http://nonrr.mythmu.net/introdash/";
         private string currentApiUrl;
 
         private List<CharacterData> characterDataList = new List<CharacterData>();
+        private CancellationTokenSource cancellationTokenSource = new CancellationTokenSource();
 
         public DBoard()
         {
-            InitializeComponent()
+            UIComponents.InitializeComponent();
             LoadServerType();
             InitializeDiscord();
             InitializeDashboard();
@@ -147,7 +142,7 @@ namespace ADashboard
                             }
 
                             characterData.clientId = processToClientIdMap[processId].ToString();
-                            ReadCharacterStatsFromMemory(process, characterData);
+                            MemoryReader.ReadCharacterStatsFromMemory(process, characterData);
 
                             activeCharacterNames.Add(characterData.name);
                             activeProcessIds.Add(processId);
@@ -174,7 +169,6 @@ namespace ADashboard
                 if (!activeProcessIds.Contains(processId))
                 {
                     processToClientIdMap.Remove(processId);
-                    processCharacterMap.Remove(processId);
                 }
             }
         }
@@ -183,12 +177,12 @@ namespace ADashboard
         {
             var characterData = new CharacterData
             {
-                name = ExtractCharacterName(mainWindowTitle),
-                level = ExtractCharacterLevel(mainWindowTitle),
-                masterLevel = ExtractCharacterMasterLevel(mainWindowTitle)
+                name = Utilities.ExtractCharacterName(mainWindowTitle),
+                level = Utilities.ExtractCharacterLevel(mainWindowTitle),
+                masterLevel = Utilities.ExtractCharacterMasterLevel(mainWindowTitle)
             };
 
-            if (!ReadCharacterStatsFromMemory(process, characterData))
+            if (!MemoryReader.ReadCharacterStatsFromMemory(process, characterData))
             {
                 log.Error("Failed to read character stats from memory.");
             }
@@ -280,7 +274,7 @@ namespace ADashboard
                 switch (command)
                 {
                     case 0:
-                        DisplayBalloonTip(arguments);
+                        UIComponents.DisplayBalloonTip(arguments, notifyIcon1);
                         break;
 
                     case 1:
@@ -294,15 +288,15 @@ namespace ADashboard
                         break;
 
                     case 3:
-                        ModifyDashboardSettings(arguments);
+                        UIComponents.ModifyDashboardSettings(arguments, currentDir);
                         break;
 
                     case 4:
-                        OpenUrl(arguments);
+                        UIComponents.OpenUrl(arguments);
                         break;
 
                     case 5:
-                        DisplayBalloonTipWithTitle(arguments);
+                        UIComponents.DisplayBalloonTipWithTitle(arguments, notifyIcon1);
                         break;
 
                     case 6:
@@ -311,34 +305,34 @@ namespace ADashboard
                         break;
 
                     case 8:
-                        ToggleWindow(arguments);
+                        WindowManager.ToggleWindow(arguments, processToClientIdMap);
                         break;
 
                     case 9:
-                        KillProcess(arguments);
+                        UIComponents.KillProcess(arguments);
                         break;
 
                     case 10:
-                        LaunchGuides();
+                        UIComponents.LaunchGuides();
                         log.Info("Launched guides.");
                         break;
 
                     case 11:
-                        ToggleNewEffects();
+                        UIComponents.ToggleNewEffects(parentDir);
                         log.Info("Toggled new effects.");
                         break;
 
                     case 12:
-                        ShowMessageBox((string)arguments[1], (string)arguments[2]);
+                        UIComponents.ShowMessageBox((string)arguments[1], (string)arguments[2]);
                         log.Info("Displayed message box with title: " + (string)arguments[1] + " and message: " + (string)arguments[2]);
                         break;
 
                     case 15:
-                        ShowEventNotification(arguments);
+                        UIComponents.ShowEventNotification(arguments, notifyIcon1);
                         break;
 
                     case 20:
-                        ActivateEffects();
+                        UIComponents.ActivateEffects();
                         break;
 
                     case 1993:
